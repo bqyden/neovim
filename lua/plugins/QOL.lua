@@ -22,9 +22,6 @@ return {
     'nvim-lua/popup.nvim',
   },
   {
-    'tpope/vim-fugitive',
-  },
-  {
     'tpope/vim-commentary',
   },
   {
