@@ -3,7 +3,7 @@ return {
   'akinsho/toggleterm.nvim',
   config = function ()
     require("toggleterm").setup({
-      size = 10,
+      size = 18,
       open_mapping = [[<C-\>]],
       auto_scroll = true,
       hide_numbers = true,
